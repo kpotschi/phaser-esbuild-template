@@ -38,3 +38,11 @@ bower_components/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
