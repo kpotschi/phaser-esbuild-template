@@ -263,6 +263,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"phaser-esbuild-template@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "phaser-esbuild-template@workspace:."
+  dependencies:
+    esbuild: "npm:^0.23.1"
+    phaser: "npm:^3.85.1"
+  languageName: unknown
+  linkType: soft
+
 "phaser@npm:^3.85.1":
   version: 3.85.1
   resolution: "phaser@npm:3.85.1"
@@ -271,12 +280,3 @@ __metadata:
   checksum: 10c0/a4b7ae57004dd66ed41956c0325bf378d843f2d8bf2de0ae57f135c070adac7ce066a769e6ee4dfad2d7a6ae2e8da00041184f03cb514fe067e136dfc3d1071f
   languageName: node
   linkType: hard
-
-"root-workspace-0b6124@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "root-workspace-0b6124@workspace:."
-  dependencies:
-    esbuild: "npm:^0.23.1"
-    phaser: "npm:^3.85.1"
-  languageName: unknown
-  linkType: soft
