@@ -20,9 +20,6 @@ bower_components/
 # TypeScript (if you're using it)
 *.tsbuildinfo
 
-# Compiled JavaScript files (optional, if you're using TypeScript or Babel)
-*.js
-*.js.map
 
 # Environment variables
 .env
